@@ -1,0 +1,21 @@
+{
+  "slug": "savannah-crown-safaris",
+  "name": "Savannah Crown Safaris",
+  "country_slug": "tanzania",
+  "description": "Africa-focused safari operator for Tanzania and Kenya custom journeys.",
+  "website_url": "https://example.com",
+  "email": "hello@example.com",
+  "phone": "+255700000000",
+  "whatsapp_number": "+255700000000",
+  "logo_url": "https://example.com/logos/savannah-crown.png",
+  "years_in_operation": 9,
+  "languages": ["English", "Swahili"],
+  "specialties": ["Luxury", "Fly-in Safaris", "Family Trips"],
+  "verified_status": "verified",
+  "review_count": 128,
+  "average_rating": 4.8,
+  "response_time_hours": 2,
+  "cancellation_policy": "Flexible cancellation",
+  "payment_policy": "Reserve first, pay after confirmation",
+  "is_published": true
+}

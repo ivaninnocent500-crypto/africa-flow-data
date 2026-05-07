@@ -1,0 +1,42 @@
+{
+  "slug": "ngorongoro-ridge-lodge",
+  "name": "Ngorongoro Ridge Lodge",
+  "accommodation_type": "lodge",
+  "country_slug": "tanzania",
+  "destination_slug": "serengeti",
+  "operator_slug": "savannah-crown-safaris",
+  "summary": "Luxury crater-view lodge for safari travelers.",
+  "description": "Premium lodge with suites, full-board options and expert support.",
+  "location_label": "Ngorongoro, Tanzania",
+  "address_line_1": "Ngorongoro Conservation Area",
+  "latitude": -3.1619,
+  "longitude": 35.5877,
+  "hero_image_url": "https://example.com/stays/ngorongoro-ridge.jpg",
+  "amenities": ["WiFi", "Restaurant", "Laundry", "Airport Transfer", "Game Drive Coordination"],
+  "room_types": ["Suite", "Double", "Family"],
+  "board_basis": ["Bed & Breakfast", "Full Board"],
+  "check_in_time": "14:00",
+  "check_out_time": "10:00",
+  "child_policy": "Children welcome",
+  "cancellation_policy": "Flexible cancellation",
+  "payment_policy": "Reserve first, pay after confirmation",
+  "verified_status": "verified",
+  "review_count": 42,
+  "average_rating": 4.7,
+  "response_time_hours": 3,
+  "is_featured": true,
+  "is_published": true,
+  "units": [
+    {
+      "unit_name": "Crater View Suite",
+      "unit_type": "suite",
+      "capacity_adults": 2,
+      "capacity_children": 1,
+      "base_price": 540,
+      "currency": "USD",
+      "amenities": ["Private Deck", "En-suite", "Crater View"],
+      "inventory_count": 8,
+      "is_published": true
+    }
+  ]
+}

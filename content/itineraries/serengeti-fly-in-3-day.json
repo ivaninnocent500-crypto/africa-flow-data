@@ -1,0 +1,59 @@
+{
+  "slug": "serengeti-fly-in-3-day",
+  "title": "3-Day Serengeti Fly-In Safari",
+  "itinerary_type": "short",
+  "country_slug": "tanzania",
+  "destination_slug": "serengeti",
+  "operator_slug": "savannah-crown-safaris",
+  "summary": "Fast luxury safari with fly-in access and premium lodge stay.",
+  "description": "Ideal short itinerary for travelers who want minimal transfers and high-quality game viewing.",
+  "duration_days": 3,
+  "nights": 2,
+  "from_price": 2400,
+  "currency": "USD",
+  "price_label": "per person",
+  "inclusions": ["Accommodation", "Game Drives", "Meals", "Airport Transfers"],
+  "exclusions": ["International Flights", "Travel Insurance", "Visa Fees"],
+  "highlights": ["Fly-in access", "Big Five game drives", "Luxury lodge"],
+  "available_months": ["Jun", "Jul", "Aug", "Sep", "Oct"],
+  "hero_image_url": "https://example.com/itineraries/serengeti-3-day.jpg",
+  "max_group_size": 6,
+  "min_group_size": 1,
+  "verified_status": "verified",
+  "review_count": 55,
+  "average_rating": 4.8,
+  "response_time_hours": 2,
+  "cancellation_policy": "Flexible cancellation",
+  "payment_policy": "Reserve first, pay after confirmation",
+  "is_featured": true,
+  "is_published": true,
+  "days": [
+    {
+      "day_number": 1,
+      "title": "Arrival and afternoon game drive",
+      "summary": "Fly into Serengeti and begin with an afternoon safari.",
+      "accommodation_slug": "ngorongoro-ridge-lodge",
+      "meals_included": ["Lunch", "Dinner"],
+      "activities": ["Airstrip pickup", "Game drive", "Sunset viewing"],
+      "drive_time_label": "30 mins"
+    },
+    {
+      "day_number": 2,
+      "title": "Full-day wildlife experience",
+      "summary": "Morning and afternoon wildlife drives across key game areas.",
+      "accommodation_slug": "ngorongoro-ridge-lodge",
+      "meals_included": ["Breakfast", "Lunch", "Dinner"],
+      "activities": ["Full-day game drive", "Picnic lunch", "Wildlife photography"],
+      "drive_time_label": "Flexible"
+    },
+    {
+      "day_number": 3,
+      "title": "Final drive and departure",
+      "summary": "Morning safari and transfer back to the airstrip.",
+      "accommodation_slug": "ngorongoro-ridge-lodge",
+      "meals_included": ["Breakfast"],
+      "activities": ["Morning game drive", "Departure transfer"],
+      "drive_time_label": "45 mins"
+    }
+  ]
+}

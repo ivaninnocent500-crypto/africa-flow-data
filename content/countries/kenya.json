@@ -1,0 +1,8 @@
+{
+  "slug": "kenya",
+  "name": "Kenya",
+  "iso_code": "KE",
+  "hero_image_url": "https://example.com/images/kenya.jpg",
+  "description": "Famous for Maasai Mara, Amboseli and Indian Ocean coast.",
+  "is_active": true
+}

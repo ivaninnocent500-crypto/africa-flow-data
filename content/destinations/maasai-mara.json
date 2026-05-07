@@ -1,0 +1,14 @@
+{
+  "slug": "maasai-mara",
+  "country_slug": "kenya",
+  "name": "Maasai Mara",
+  "destination_type": "reserve",
+  "summary": "Top Kenya wildlife reserve for Big Five and migration viewing.",
+  "description": "Strong safari demand with camps, lodges and custom circuits.",
+  "latitude": -1.4931,
+  "longitude": 35.1439,
+  "hero_image_url": "https://example.com/images/maasai-mara.jpg",
+  "best_months": ["Jul", "Aug", "Sep", "Oct"],
+  "tags": ["migration", "big-five", "camp", "group"],
+  "is_published": true
+}

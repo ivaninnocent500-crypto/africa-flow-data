@@ -1,0 +1,8 @@
+{
+  "slug": "tanzania",
+  "name": "Tanzania",
+  "iso_code": "TZ",
+  "hero_image_url": "https://example.com/images/tanzania.jpg",
+  "description": "Home to Serengeti, Ngorongoro and Zanzibar.",
+  "is_active": true
+}

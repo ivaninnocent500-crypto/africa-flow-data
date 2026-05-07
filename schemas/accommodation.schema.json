@@ -1,0 +1,84 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/your-org/africa-flow-data/schemas/accommodation.schema.json",
+  "title": "Accommodation",
+  "type": "object",
+  "required": [
+    "slug",
+    "name",
+    "accommodation_type",
+    "country_slug",
+    "destination_slug",
+    "summary",
+    "description",
+    "hero_image_url",
+    "amenities",
+    "room_types",
+    "board_basis",
+    "verified_status",
+    "is_published",
+    "units"
+  ],
+  "properties": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "name": { "type": "string", "minLength": 3 },
+    "accommodation_type": {
+      "type": "string",
+      "enum": ["hotel", "lodge", "camp", "tented_camp", "villa", "guesthouse"]
+    },
+    "country_slug": { "type": "string" },
+    "destination_slug": { "type": "string" },
+    "operator_slug": { "type": "string" },
+    "summary": { "type": "string", "minLength": 10 },
+    "description": { "type": "string", "minLength": 20 },
+    "location_label": { "type": "string" },
+    "address_line_1": { "type": "string" },
+    "latitude": { "type": "number" },
+    "longitude": { "type": "number" },
+    "hero_image_url": { "type": "string", "format": "uri" },
+    "amenities": { "type": "array", "items": { "type": "string" } },
+    "room_types": { "type": "array", "items": { "type": "string" } },
+    "board_basis": { "type": "array", "items": { "type": "string" } },
+    "check_in_time": { "type": "string" },
+    "check_out_time": { "type": "string" },
+    "child_policy": { "type": "string" },
+    "cancellation_policy": { "type": "string" },
+    "payment_policy": { "type": "string" },
+    "verified_status": { "type": "string", "enum": ["pending", "verified", "rejected"] },
+    "review_count": { "type": "integer", "minimum": 0 },
+    "average_rating": { "type": "number", "minimum": 0, "maximum": 5 },
+    "response_time_hours": { "type": "integer", "minimum": 0 },
+    "is_featured": { "type": "boolean" },
+    "is_published": { "type": "boolean" },
+    "units": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "unit_name",
+          "unit_type",
+          "capacity_adults",
+          "capacity_children",
+          "base_price",
+          "currency",
+          "inventory_count",
+          "is_published"
+        ],
+        "properties": {
+          "unit_name": { "type": "string" },
+          "unit_type": {
+            "type": "string",
+            "enum": ["single", "double", "twin", "suite", "family", "tent", "villa"]
+          },
+          "capacity_adults": { "type": "integer", "minimum": 1 },
+          "capacity_children": { "type": "integer", "minimum": 0 },
+          "base_price": { "type": "number", "minimum": 0 },
+          "currency": { "type": "string", "minLength": 3, "maxLength": 3 },
+          "amenities": { "type": "array", "items": { "type": "string" } },
+          "inventory_count": { "type": "integer", "minimum": 0 },
+          "is_published": { "type": "boolean" }
+        }
+      }
+    }
+  }
+}

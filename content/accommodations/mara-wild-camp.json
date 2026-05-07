@@ -1,0 +1,42 @@
+{
+  "slug": "mara-wild-camp",
+  "name": "Mara Wild Camp",
+  "accommodation_type": "camp",
+  "country_slug": "kenya",
+  "destination_slug": "maasai-mara",
+  "operator_slug": "savannah-crown-safaris",
+  "summary": "Budget-friendly tented camp near game routes.",
+  "description": "Affordable camp ideal for migration season and shared safari departures.",
+  "location_label": "Maasai Mara, Kenya",
+  "address_line_1": "Mara Gate Road",
+  "latitude": -1.5,
+  "longitude": 35.25,
+  "hero_image_url": "https://example.com/stays/mara-wild-camp.jpg",
+  "amenities": ["Hot Shower", "Restaurant", "Shared Lounge", "Game Drive Coordination"],
+  "room_types": ["Tent", "Family Tent"],
+  "board_basis": ["Half Board", "Full Board"],
+  "check_in_time": "13:00",
+  "check_out_time": "10:00",
+  "child_policy": "Children welcome",
+  "cancellation_policy": "Standard cancellation",
+  "payment_policy": "Deposit after availability check",
+  "verified_status": "verified",
+  "review_count": 19,
+  "average_rating": 4.4,
+  "response_time_hours": 8,
+  "is_featured": false,
+  "is_published": true,
+  "units": [
+    {
+      "unit_name": "Standard Safari Tent",
+      "unit_type": "tent",
+      "capacity_adults": 2,
+      "capacity_children": 1,
+      "base_price": 120,
+      "currency": "USD",
+      "amenities": ["En-suite", "Campfire Access"],
+      "inventory_count": 14,
+      "is_published": true
+    }
+  ]
+}

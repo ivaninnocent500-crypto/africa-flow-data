@@ -1,0 +1,14 @@
+{
+  "slug": "serengeti",
+  "country_slug": "tanzania",
+  "name": "Serengeti National Park",
+  "destination_type": "park",
+  "summary": "Iconic safari destination known for the Great Migration.",
+  "description": "World-famous ecosystem with game drives, luxury lodges and fly-in safaris.",
+  "latitude": -2.333333,
+  "longitude": 34.833333,
+  "hero_image_url": "https://example.com/images/serengeti.jpg",
+  "best_months": ["Jun", "Jul", "Aug", "Sep", "Oct"],
+  "tags": ["migration", "big-five", "luxury", "family"],
+  "is_published": true
+}

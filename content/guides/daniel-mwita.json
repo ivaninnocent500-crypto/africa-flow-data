@@ -1,0 +1,20 @@
+{
+  "slug": "daniel-mwita",
+  "operator_slug": "savannah-crown-safaris",
+  "country_slug": "tanzania",
+  "destination_slug": "serengeti",
+  "full_name": "Daniel Mwita",
+  "bio": "Private safari guide with strong wildlife photography support.",
+  "email": "daniel@example.com",
+  "phone": "+255711111111",
+  "whatsapp_number": "+255711111111",
+  "avatar_url": "https://example.com/avatars/daniel.jpg",
+  "languages": ["English", "Swahili"],
+  "specialties": ["Wildlife Photography", "Private Safari", "Birding"],
+  "years_experience": 7,
+  "verified_status": "verified",
+  "review_count": 64,
+  "average_rating": 4.6,
+  "response_time_hours": 4,
+  "is_published": true
+}

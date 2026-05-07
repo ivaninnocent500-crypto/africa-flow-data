@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/your-org/africa-flow-data/schemas/itinerary.schema.json",
+  "title": "Itinerary",
+  "type": "object",
+  "required": [
+    "slug",
+    "title",
+    "itinerary_type",
+    "country_slug",
+    "destination_slug",
+    "operator_slug",
+    "summary",
+    "description",
+    "duration_days",
+    "nights",
+    "currency",
+    "inclusions",
+    "exclusions",
+    "available_months",
+    "days",
+    "verified_status",
+    "is_published"
+  ],
+  "properties": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "title": { "type": "string", "minLength": 4 },
+    "itinerary_type": {
+      "type": "string",
+      "enum": ["short", "long", "private", "group", "luxury", "budget", "family", "romantic", "custom"]
+    },
+    "country_slug": { "type": "string" },
+    "destination_slug": { "type": "string" },
+    "operator_slug": { "type": "string" },
+    "summary": { "type": "string", "minLength": 10 },
+    "description": { "type": "string", "minLength": 20 },
+    "duration_days": { "type": "integer", "minimum": 1 },
+    "nights": { "type": "integer", "minimum": 0 },
+    "from_price": { "type": "number", "minimum": 0 },
+    "currency": { "type": "string", "minLength": 3, "maxLength": 3 },
+    "price_label": { "type": "string" },
+    "inclusions": { "type": "array", "items": { "type": "string" } },
+    "exclusions": { "type": "array", "items": { "type": "string" } },
+    "highlights": { "type": "array", "items": { "type": "string" } },
+    "available_months": { "type": "array", "items": { "type": "string" } },
+    "hero_image_url": { "type": "string", "format": "uri" },
+    "max_group_size": { "type": "integer", "minimum": 1 },
+    "min_group_size": { "type": "integer", "minimum": 1 },
+    "verified_status": { "type": "string", "enum": ["pending", "verified", "rejected"] },
+    "review_count": { "type": "integer", "minimum": 0 },
+    "average_rating": { "type": "number", "minimum": 0, "maximum": 5 },
+    "response_time_hours": { "type": "integer", "minimum": 0 },
+    "cancellation_policy": { "type": "string" },
+    "payment_policy": { "type": "string" },
+    "is_featured": { "type": "boolean" },
+    "is_published": { "type": "boolean" },
+    "days": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["day_number", "title", "summary"],
+        "properties": {
+          "day_number": { "type": "integer", "minimum": 1 },
+          "title": { "type": "string" },
+          "summary": { "type": "string" },
+          "accommodation_slug": { "type": "string" },
+          "meals_included": { "type": "array", "items": { "type": "string" } },
+          "activities": { "type": "array", "items": { "type": "string" } },
+          "drive_time_label": { "type": "string" }
+        }
+      }
+    }
+  }
+}
