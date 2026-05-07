@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/your-org/africa-flow-data/schemas/itinerary.schema.json",
+  "$id": "https://github.com/ivaninnocent500-crypto/africa-flow-data/schemas/itinerary.schema.json",
   "title": "Itinerary",
   "type": "object",
   "required": [
