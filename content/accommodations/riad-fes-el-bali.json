@@ -1,7 +1,7 @@
 {
   "slug": "riad-fes-el-bali",
   "name": "Riad Fes El Bali",
-  "accommodation_type": "riad",
+  "accommodation_type": "guesthouse",
   "country_slug": "morocco",
   "destination_slug": "fes",
   "operator_slug": "atlas-nomad-tours",
@@ -13,6 +13,7 @@
   "longitude": -5.0,
   "hero_image_url": "https://images.unsplash.com/photo-1564866991545-58fe7fd8e743?w=1600",
   "amenities": ["Restaurant", "Terrace", "Free Wi-Fi", "Airport shuttle"],
+  "room_types": ["Double"],
   "board_basis": ["Bed & Breakfast"],
   "check_in_time": "13:00",
   "check_out_time": "11:00",
