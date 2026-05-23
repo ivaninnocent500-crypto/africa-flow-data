@@ -1,0 +1,207 @@
+[
+  {
+    "slug": "sossusvlei-express-2-day",
+    "title": "2-Day Sossusvlei Express",
+    "itinerary_type": "short",
+    "country_slug": "namibia",
+    "destination_slug": "sossusvlei",
+    "operator_slug": "moafrika-tours",
+    "summary": "Short desert itinerary built around Sesriem, Sossusvlei, and iconic red dunes.",
+    "description": "A very compact Namibia desert route typically starting from Windhoek and focusing on the core Sossusvlei highlights over two days.",
+    "duration_days": 2,
+    "nights": 1,
+    "from_price": null,
+    "currency": "USD",
+    "price_label": "per person",
+    "inclusions": ["Accommodation", "Road Transfers", "Sossusvlei visit"],
+    "exclusions": [],
+    "highlights": ["Namib Desert", "Sesriem area", "Sossusvlei dunes", "Deadvlei-style desert scenery"],
+    "available_months": [],
+    "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=hb3Bgf70Fk8wdPXu0yO9kH%2FbeWcK70yJcrdYjsqVgtXQM6pqYZwnTY7MkyprBO2tOPnlW2ahHZaa6TayUEiNJEBGurQtxoxqHADaJDoX43sI4q%2FTdzsjdGAN9A7h5qx7mU93YcbJeL%2FzUPVYRYcTaw%3D%3D&u2=6Lep08au296pj7xw&width=2560",
+    "max_group_size": null,
+    "min_group_size": 1,
+    "verified_status": "research-based",
+    "review_count": null,
+    "average_rating": null,
+    "response_time_hours": null,
+    "cancellation_policy": null,
+    "payment_policy": null,
+    "is_featured": false,
+    "is_published": true,
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Windhoek to Sesriem",
+        "summary": "Depart Windhoek and drive into the Namib Desert region, arriving near Sesriem for overnight.",
+        "accommodation_slug": "sesriem-desert-lodge",
+        "meals_included": [],
+        "activities": ["Road transfer", "Desert arrival"],
+        "drive_time_label": "320 km"
+      },
+      {
+        "day_number": 2,
+        "title": "Sossusvlei and departure",
+        "summary": "Visit the dunes and desert landmarks around Sossusvlei before onward transfer or return.",
+        "accommodation_slug": "sesriem-desert-lodge",
+        "meals_included": [],
+        "activities": ["Dune visit", "Desert photography", "Departure transfer"],
+        "drive_time_label": "Flexible"
+      }
+    ]
+  },
+  {
+    "slug": "etosha-lodge-3-day",
+    "title": "3-Day Etosha National Park Lodge Safari",
+    "itinerary_type": "short",
+    "country_slug": "namibia",
+    "destination_slug": "etosha-national-park",
+    "operator_slug": "african-budget-safaris",
+    "summary": "Classic short Etosha wildlife route from Windhoek with waterholes, Etosha Pan, and lodge stays.",
+    "description": "A budget-friendly but comfortable Etosha safari combining park game drives, floodlit waterholes, and a finish in Swakopmund.",
+    "duration_days": 3,
+    "nights": 2,
+    "from_price": null,
+    "currency": "USD",
+    "price_label": "per person",
+    "inclusions": ["Accommodation", "Meals as per itinerary", "Game Drives", "Road Transport"],
+    "exclusions": [],
+    "highlights": ["Etosha waterholes", "Etosha Pan", "Halali Camp", "Rhino, lion, elephant sightings"],
+    "available_months": [],
+    "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=oQlDBs7NDdSRaRtIGTAGIHE32TrZ7liNTBsF3C50DIC2JTHCdLPeR7Mv1%2B154V4rKmfJvq6YFNtVgMJ5pBWwL0irEGyq%2BMgmv0MGqknRtp0mMVxFmIQxQfdb49V4RLaGi9OYcSdyX8Ltag%3D%3D&u2=NU9TwLN2iihQ94hT&width=2560",
+    "max_group_size": 12,
+    "min_group_size": 1,
+    "verified_status": "research-based",
+    "review_count": null,
+    "average_rating": null,
+    "response_time_hours": null,
+    "cancellation_policy": null,
+    "payment_policy": null,
+    "is_featured": true,
+    "is_published": true,
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Windhoek to Etosha",
+        "summary": "Travel north from Windhoek, enter Etosha via Anderson Gate, and enjoy the first waterhole-focused game drive before overnighting at Halali.",
+        "accommodation_slug": "halali-camp",
+        "meals_included": ["Lunch", "Dinner"],
+        "activities": ["Road transfer", "Game drive", "Floodlit waterhole viewing"],
+        "drive_time_label": "Full day transfer"
+      },
+      {
+        "day_number": 2,
+        "title": "Full day Etosha safari",
+        "summary": "Early morning game drive, visit Etosha Pan, stop at waterholes, then continue to a lodge near the gates.",
+        "accommodation_slug": "etosha-safari-lodge",
+        "meals_included": ["Breakfast", "Lunch", "Dinner"],
+        "activities": ["Morning game drive", "Etosha Pan visit", "Sunset stop"],
+        "drive_time_label": "Flexible"
+      },
+      {
+        "day_number": 3,
+        "title": "Etosha to Swakopmund",
+        "summary": "After breakfast, leave Etosha and journey via Damaraland and the Skeleton Coast to Swakopmund.",
+        "accommodation_slug": "etosha-safari-lodge",
+        "meals_included": ["Breakfast", "Lunch"],
+        "activities": ["Road transfer", "Craft stop", "Skeleton Coast viewpoint"],
+        "drive_time_label": "Full day transfer"
+      }
+    ]
+  },
+  {
+    "slug": "namibia-self-drive-7-day",
+    "title": "7-Day Namibia Self-Drive Safari",
+    "itinerary_type": "long",
+    "country_slug": "namibia",
+    "destination_slug": "kalahari-sossusvlei-swakopmund-erongo",
+    "operator_slug": "swakopmund-namibia",
+    "summary": "Popular self-drive circuit linking desert, coast, and mountains in one week.",
+    "description": "A rewarding Namibia road trip through the Kalahari, Sossusvlei, Swakopmund, and Erongo mountain area with rental-car flexibility.",
+    "duration_days": 7,
+    "nights": 6,
+    "from_price": null,
+    "currency": "USD",
+    "price_label": "per person",
+    "inclusions": ["Self-drive itinerary planning", "Accommodation", "Welcome pack"],
+    "exclusions": ["International Flights", "Travel Insurance", "Car Rental Costs unless booked", "Optional Activities"],
+    "highlights": ["Kalahari Desert", "Sossusvlei and Deadvlei", "Swakopmund coast", "Erongo mountain scenery"],
+    "available_months": [],
+    "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=Cc27Y6hC%2BKQOkpfp%2FVs%2FpYKxM6c5iQ2FgiueO6z38c31TYLJh6acRmsAUDQeI4dZVP26R8MotOFyfSu3isnfHrRGXUuiyDACiJsOPRK1ODPZh6oVuG33A3iZP%2FPbk7W6BV2CYQeiqImSBfLg6v1V4sNh%2FTc%2BS%2Bu0TjkeewmM1ts%2FfrXKjfiS0ov4F0s%3D&u2=xergirWUTxKLXKI8&width=2560",
+    "max_group_size": null,
+    "min_group_size": 1,
+    "verified_status": "research-based",
+    "review_count": null,
+    "average_rating": null,
+    "response_time_hours": null,
+    "cancellation_policy": null,
+    "payment_policy": null,
+    "is_featured": true,
+    "is_published": true,
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Airport to Kalahari",
+        "summary": "Arrive in Namibia, collect the vehicle, and drive to the Kalahari for a Bushmen experience.",
+        "accommodation_slug": "kalahari-desert-lodge",
+        "meals_included": [],
+        "activities": ["Vehicle collection", "Bushmen walk", "Desert overnight"],
+        "drive_time_label": "Self-drive"
+      },
+      {
+        "day_number": 2,
+        "title": "Kalahari to Sossusvlei",
+        "summary": "Drive into Namib Naukluft country and check in near Sossusvlei.",
+        "accommodation_slug": "hoodia-desert-lodge",
+        "meals_included": [],
+        "activities": ["Self-drive", "Desert lodge check-in"],
+        "drive_time_label": "Self-drive"
+      },
+      {
+        "day_number": 3,
+        "title": "Explore Sossusvlei",
+        "summary": "Visit Big Daddy or Dune 45, Deadvlei, and Sesriem Canyon.",
+        "accommodation_slug": "hoodia-desert-lodge",
+        "meals_included": [],
+        "activities": ["Dune climbing", "Deadvlei visit", "Sesriem Canyon"],
+        "drive_time_label": "Flexible"
+      },
+      {
+        "day_number": 4,
+        "title": "To Swakopmund coast",
+        "summary": "Drive to Swakopmund and settle into Namibia’s adventure coast hub.",
+        "accommodation_slug": "atlantic-garden-boutique-hotel",
+        "meals_included": [],
+        "activities": ["Self-drive", "Coastal arrival"],
+        "drive_time_label": "Self-drive"
+      },
+      {
+        "day_number": 5,
+        "title": "Free day in Swakopmund",
+        "summary": "Use the day for dolphin cruises, Sandwich Harbour, sandboarding, quad biking, or town exploration.",
+        "accommodation_slug": "atlantic-garden-boutique-hotel",
+        "meals_included": [],
+        "activities": ["Optional excursions", "Beach town exploration"],
+        "drive_time_label": "Flexible"
+      },
+      {
+        "day_number": 6,
+        "title": "Swakopmund to Erongo Mountains",
+        "summary": "Head inland to Hohenstein Lodge for mountain views and sunset scenery.",
+        "accommodation_slug": "hohenstein-lodge",
+        "meals_included": [],
+        "activities": ["Self-drive", "Sunset viewing", "Nature walks"],
+        "drive_time_label": "Self-drive"
+      },
+      {
+        "day_number": 7,
+        "title": "Return to Windhoek",
+        "summary": "Drive back to Windhoek or the airport and return your rental vehicle.",
+        "accommodation_slug": "hohenstein-lodge",
+        "meals_included": [],
+        "activities": ["Departure transfer", "Vehicle return"],
+        "drive_time_label": "Self-drive"
+      }
+    ]
+  }
+]
+
