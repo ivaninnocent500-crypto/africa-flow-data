@@ -1,0 +1,54 @@
+{
+  "slug": "kilimanjaro-alpine-camps",
+  "name": "Kilimanjaro Alpine Camps",
+  "accommodation_type": "camp",
+  "country_slug": "tanzania",
+  "destination_slug": "kilimanjaro",
+  "operator_slug": "altezza-travel",
+  "summary": "Unified operational campsite profile for Kilimanjaro Machame-route overnight handling and trek inventory mapping.",
+  "description": "Structural mountain-camp property representing the linked overnight camps used on Kilimanjaro trekking routes, allowing daily itinerary accommodation lookups to resolve cleanly against a single parent slug.",
+  "location_label": "Machame Route, Kilimanjaro National Park",
+  "address_line_1": "Machame Route, Kilimanjaro National Park, Tanzania",
+  "latitude": -3.065653,
+  "longitude": 37.352013,
+  "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=unOZsn9ZK5GFjBP5nyGgte9SZGfcjKWJZmJxYm2lrvBoLhfTTmODmxSgd7zE0XKBpMvN25cCkqX4IprOwPJwbrFkys31r7B85yfQbTOPLNbkNQP1gFi18OjMjgDpn94hCx94uCsmSsMD421P52cDKGATnovm1P8WPjaZh9O8LZ0hXovXpKjnIVoDZqE%2FQ4aYwYUWX6%2FTJx8zBfBBvswJRz6WwWzduYBoDiHODgA%3D&u2=OdAFDjPU6z3vIjPM&width=2560",
+  "amenities": ["Mess Tent", "Mountain Crew Support", "Camp Setup", "Shared Eco Toilets", "Sleeping Tent Allocation"],
+  "room_types": ["Mountain Dome Tent", "Private Trekking Tent"],
+  "board_basis": ["Full Board"],
+  "check_in_time": "Flexible",
+  "check_out_time": "Flexible",
+  "child_policy": "Not recommended for children on summit itineraries",
+  "cancellation_policy": "Standard trekking cancellation policy applies at confirmation stage",
+  "payment_policy": "Deposit after availability check",
+  "verified_status": "verified",
+  "review_count": 0,
+  "average_rating": 0.0,
+  "response_time_hours": 4,
+  "is_featured": false,
+  "is_published": true,
+  "units": [
+    {
+      "unit_name": "Mountain Dome Tent",
+      "unit_type": "tent",
+      "capacity_adults": 2,
+      "capacity_children": 0,
+      "base_price": 75,
+      "currency": "USD",
+      "amenities": ["Foam Mattress", "Waterproof Flysheet"],
+      "inventory_count": 60,
+      "is_published": true
+    },
+    {
+      "unit_name": "Private Trekking Tent",
+      "unit_type": "tent",
+      "capacity_adults": 1,
+      "capacity_children": 0,
+      "base_price": 110,
+      "currency": "USD",
+      "amenities": ["Single Occupancy", "Waterproof Flysheet"],
+      "inventory_count": 20,
+      "is_published": true
+    }
+  ]
+}
+
