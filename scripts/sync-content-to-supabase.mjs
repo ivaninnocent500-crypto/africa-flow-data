@@ -31,6 +31,7 @@ async function getIdBySlug(table, slug) {
     throw error;
   }
   return data.id;
+}
 
 async function upsertCountries() {
   const countries = readJsonFiles("countries");
