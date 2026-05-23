@@ -1,0 +1,41 @@
+{
+  "slug": "mahe-beach-villa",
+  "name": "Mahé Beach Villa",
+  "accommodation_type": "villa",
+  "country_slug": "seychelles",
+  "destination_slug": "mahe",
+  "operator_slug": "creole-island-escapes",
+  "summary": "Private beachfront villa on Beau Vallon Bay.",
+  "description": "Two-bedroom villa with kitchen, garden, and direct beach access.",
+  "location_label": "Beau Vallon, Mahé",
+  "address_line_1": "Beau Vallon, Mahé, Seychelles",
+  "latitude": -4.6183,
+  "longitude": 55.4297,
+  "hero_image_url": "https://images.unsplash.com/photo-1540202404-a2f29016b1b1?w=1600",
+  "amenities": ["Private beach access", "Kitchen", "Wi-Fi", "BBQ"],
+  "board_basis": ["Self Catering", "Bed & Breakfast optional"],
+  "check_in_time": "14:00",
+  "check_out_time": "10:00",
+  "child_policy": "Children welcome",
+  "cancellation_policy": "Free cancellation 21 days before",
+  "payment_policy": "50% deposit to secure",
+  "verified_status": "verified",
+  "review_count": 42,
+  "average_rating": 4.8,
+  "response_time_hours": 3,
+  "is_featured": true,
+  "is_published": true,
+  "units": [
+    {
+      "unit_name": "Entire Villa (2 bedrooms)",
+      "unit_type": "villa",
+      "capacity_adults": 4,
+      "capacity_children": 2,
+      "base_price": 450,
+      "currency": "USD",
+      "amenities": ["Full kitchen", "Private garden", "Beach loungers"],
+      "inventory_count": 1,
+      "is_published": true
+    }
+  ]
+}
