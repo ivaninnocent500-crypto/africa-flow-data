@@ -1,0 +1,41 @@
+{
+  "slug": "praslin-constance-lodge",
+  "name": "Constance Lodge Praslin",
+  "accommodation_type": "lodge",
+  "country_slug": "seychelles",
+  "destination_slug": "praslin",
+  "operator_slug": "creole-island-escapes",
+  "summary": "Eco-lodge near Anse Lazio, set in tropical gardens.",
+  "description": "Spacious bungalows with verandas, close to Vallée de Mai.",
+  "location_label": "Anse Boudin, Praslin",
+  "address_line_1": "Anse Boudin, Praslin",
+  "latitude": -4.325,
+  "longitude": 55.7333,
+  "hero_image_url": "https://images.unsplash.com/photo-1540202404-a2f29016b1b1?w=1600",
+  "amenities": ["Restaurant", "Bar", "Swimming pool", "Free parking"],
+  "board_basis": ["Half Board"],
+  "check_in_time": "14:00",
+  "check_out_time": "11:00",
+  "child_policy": "Children welcome",
+  "cancellation_policy": "14 days – full refund",
+  "payment_policy": "25% deposit",
+  "verified_status": "verified",
+  "review_count": 67,
+  "average_rating": 4.7,
+  "response_time_hours": 2,
+  "is_featured": false,
+  "is_published": true,
+  "units": [
+    {
+      "unit_name": "Garden Bungalow",
+      "unit_type": "double",
+      "capacity_adults": 2,
+      "capacity_children": 1,
+      "base_price": 260,
+      "currency": "USD",
+      "amenities": ["King bed", "En-suite", "Veranda"],
+      "inventory_count": 10,
+      "is_published": true
+    }
+  ]
+}
