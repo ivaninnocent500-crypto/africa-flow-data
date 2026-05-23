@@ -13,6 +13,7 @@
   "longitude": -5.2697,
   "hero_image_url": "https://images.unsplash.com/photo-1556194714-129a7011a10b?w=1600",
   "amenities": ["Restaurant", "Free Wi-Fi", "Mountain views"],
+  "room_types": ["Double"],
   "board_basis": ["Bed & Breakfast"],
   "check_in_time": "14:00",
   "check_out_time": "12:00",
