@@ -1,0 +1,22 @@
+{
+  "slug": "moafrika-tours",
+  "name": "MoAfrika Tours",
+  "country_slug": "namibia",
+  "description": "Premier Southern Africa tour operator specializing in small-group and private desert safaris.",
+  "website_url": "https://example.com/moafrika",
+  "email": "info@moafrikaexample.com",
+  "phone": "+26461000000",
+  "whatsapp_number": "+26461000000",
+  "logo_url": "https://example.com/logos/moafrika.png",
+  "years_in_operation": 15,
+  "languages": ["English", "German"],
+  "specialties": ["Desert Safaris", "Overland Tours", "Short Breaks"],
+  "verified_status": "verified",
+  "review_count": 412,
+  "average_rating": 4.7,
+  "response_time_hours": 4,
+  "cancellation_policy": "Standard cancellation rules apply",
+  "payment_policy": "Deposit required, balance due before travel",
+  "is_published": true
+}
+
