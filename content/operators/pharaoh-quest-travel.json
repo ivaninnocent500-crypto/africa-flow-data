@@ -1,0 +1,22 @@
+{
+  "slug": "pharaoh-quest-travel",
+  "name": "Pharaoh Quest Travel",
+  "country_slug": "egypt",
+  "description": "Egyptian tour operator offering Nile cruises, pyramid explorations, and Red Sea extensions.",
+  "website_url": "https://pharaohquest.example.com",
+  "email": "bookings@pharaohquest.com.eg",
+  "phone": "+20 2 1234 5678",
+  "whatsapp_number": "+20 122 345 6789",
+  "logo_url": "https://example.com/logos/pharaoh-quest.png",
+  "years_in_operation": 15,
+  "languages": ["English", "Arabic", "German", "Italian"],
+  "specialties": ["Nile cruises", "Archaeological tours", "Luxury", "Family trips"],
+  "verified_status": "verified",
+  "review_count": 347,
+  "average_rating": 4.7,
+  "response_time_hours": 3,
+  "cancellation_policy": "Standard – 45 days before departure for full refund",
+  "payment_policy": "25% deposit to confirm",
+  "is_published": true
+}
+
