@@ -1,0 +1,14 @@
+{
+  "slug": "kilimanjaro",
+  "country_slug": "tanzania",
+  "name": "Kilimanjaro",
+  "destination_type": "park",
+  "summary": "Africa’s highest mountain track built around summit trekking, alpine scenery, and multi-day routes through Kilimanjaro National Park.",
+  "description": "Kilimanjaro National Park is Tanzania’s iconic mountain destination, known for summit climbs on classic routes such as Machame, varied ecological zones, and the UNESCO-listed massif rising above the northern plains.",
+  "latitude": -3.065653,
+  "longitude": 37.352013,
+  "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=v0DEJEwNQhgjnlLA7UjVJjSXNornc5iFhS%2FeZ30ylpuhCq7Ewr3Ecu4cJHoGVSP7VOPl6%2BUDB2N%2BkQcEJ%2FLGb9pyjMD2fILQEFlwllDcGuu0%2FWHDj%2FUMSaCaDihWcKvORTYs2X4pwhMEpPWTDoqcVn5WtXJUPRE%3D&u2=lmtkAejGjO5UY9II&width=2560",
+  "best_months": ["Jan", "Feb", "Mar", "Jun", "Jul", "Aug", "Sep", "Oct"],
+  "tags": ["trekking", "summit", "adventure", "unesco", "mountain"],
+  "is_published": true
+}
