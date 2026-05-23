@@ -1,7 +1,7 @@
 {
   "slug": "ms-memphis-nile-cruise",
   "name": "MS Memphis Nile Cruise",
-  "accommodation_type": "boat",
+  "accommodation_type": "hotel",
   "country_slug": "egypt",
   "destination_slug": "luxor",
   "operator_slug": "pharaoh-quest-travel",
@@ -13,7 +13,8 @@
   "longitude": 32.6394,
   "hero_image_url": "https://images.unsplash.com/photo-1572251324479-c805d35d5a97?w=1600",
   "amenities": ["Pool", "Sun deck", "Restaurant", "Bar", "Gym"],
-  "board_basis": ["Full Board (including guided tours)"],
+  "room_types": ["Cabin", "Suite"],
+  "board_basis": ["Full Board"],
   "check_in_time": "12:00",
   "check_out_time": "08:00",
   "child_policy": "Children welcome (sharing with adults)",
