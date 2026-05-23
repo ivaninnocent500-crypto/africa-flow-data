@@ -1,0 +1,14 @@
+{
+  "slug": "marrakech",
+  "country_slug": "morocco",
+  "name": "Marrakech",
+  "destination_type": "city",
+  "summary": "The Red City – bustling souks, palaces, and Djemaa el-Fna square.",
+  "description": "Historic medina, Bahia Palace, Majorelle Garden, and snake charmers. Gateway to the High Atlas and Sahara.",
+  "latitude": 31.6295,
+  "longitude": -7.9811,
+  "hero_image_url": "https://images.unsplash.com/photo-1597211686415-8006c6e3b818?w=1600",
+  "best_months": ["Mar", "Apr", "May", "Sep", "Oct", "Nov"],
+  "tags": ["cultural", "shopping", "food", "historic"],
+  "is_published": true
+}
