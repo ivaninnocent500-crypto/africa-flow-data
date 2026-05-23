@@ -1,7 +1,7 @@
 {
   "slug": "riad-marrakech-royal",
   "name": "Riad Marrakech Royal",
-  "accommodation_type": "hotel",
+  "accommodation_type": "guesthouse",
   "country_slug": "morocco",
   "destination_slug": "marrakech",
   "operator_slug": "atlas-nomad-tours",
@@ -13,6 +13,7 @@
   "longitude": -7.9811,
   "hero_image_url": "https://images.unsplash.com/photo-1597211686415-8006c6e3b818?w=1600",
   "amenities": ["Pool", "Rooftop terrace", "Hammam", "Free Wi-Fi"],
+  "room_types": ["Double", "Suite"],
   "board_basis": ["Bed & Breakfast", "Half Board"],
   "check_in_time": "14:00",
   "check_out_time": "11:00",
