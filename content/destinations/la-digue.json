@@ -1,0 +1,14 @@
+{
+  "slug": "la-digue",
+  "country_slug": "seychelles",
+  "name": "La Digue",
+  "destination_type": "beach",
+  "summary": "Timeless island with ox-carts, Anse Source d'Argent beach.",
+  "description": "Giant granite boulders, bicycle transport, and laid-back vibe.",
+  "latitude": -4.3585,
+  "longitude": 55.8287,
+  "hero_image_url": "https://images.unsplash.com/photo-1540202404-a2f29016b1b1?w=1600",
+  "best_months": ["Apr", "May", "Jun", "Sep", "Oct", "Nov"],
+  "tags": ["iconic beach", "cycling", "photography"],
+  "is_published": true
+}
