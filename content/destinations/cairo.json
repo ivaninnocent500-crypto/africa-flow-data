@@ -1,0 +1,14 @@
+{
+  "slug": "cairo",
+  "country_slug": "egypt",
+  "name": "Cairo",
+  "destination_type": "city",
+  "summary": "Megacity with the Giza Pyramids, Sphinx, and Egyptian Museum.",
+  "description": "Ancient wonders meet modern chaos. Nile feluccas, Khan el-Khalili bazaar.",
+  "latitude": 30.0444,
+  "longitude": 31.2357,
+  "hero_image_url": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=1600",
+  "best_months": ["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"],
+  "tags": ["pyramids", "museum", "river", "ancient"],
+  "is_published": true
+}
