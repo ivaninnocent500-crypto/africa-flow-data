@@ -1,0 +1,54 @@
+{
+  "slug": "royal-zanzibar-beach-resort",
+  "name": "Royal Zanzibar Beach Resort",
+  "accommodation_type": "hotel",
+  "country_slug": "tanzania",
+  "destination_slug": "zanzibar",
+  "operator_slug": "altezza-travel",
+  "summary": "North-coast Zanzibar beach resort designed for short island escapes and upscale oceanfront stays.",
+  "description": "Beachfront resort in Nungwi with spacious suites, pools, dining venues, spa facilities, and easy access to Zanzibar’s leisure and cultural excursions.",
+  "location_label": "Nungwi, Zanzibar",
+  "address_line_1": "Nungwi Beach, Zanzibar, Tanzania",
+  "latitude": -5.725856,
+  "longitude": 39.298569,
+  "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=agX67S6UUwotwz5Y8boU6MVg8s0y9l7c%2BAH6PMjsEVPilm7M22hccgK%2BYrXToMYwJPFxM9trGTeq4b7486uplcahudzNKM9Pl%2BWXcXGJra%2FcPlYVvYbm3F8YJTHfz88m7Cu8d%2FGhno02Kmcc0Gi0gJi83Q8DdLXi5tqSQTQ6WNveF2dfvvcKcbLLntxkLQZ4iljFsfobmSPzyn3UYEKeDi22yIEgFGdcfNZdVCn78oSxgZWZEtS15C0wZjGZ3OxzCS5oRiCLYYJOZKcVsRRoJjh9y7sln8qjVEIZtcsodYP3wPOsqtY3MTsDYKmAJrweBqwu0QleZ4OhmCd%2BHHkQHLgKSl5z4FRa%2Fbt6xnCFizcgCwL4%2BViuBV7V8%2B7%2Ff%2FRH5C%2Fk%2B%2BuSKzsQ9cIHZ%2FIu0g%3D%3D&u2=nWqGJfQ4Pudg4V6o&width=2560",
+  "amenities": ["Beach Access", "Pool", "Spa", "Restaurant", "Bar", "Wi-Fi"],
+  "room_types": ["Ocean Suite", "Royal Suite"],
+  "board_basis": ["Bed & Breakfast", "Half Board", "Full Board"],
+  "check_in_time": "14:00",
+  "check_out_time": "11:00",
+  "child_policy": "Children welcome",
+  "cancellation_policy": "Standard cancellation policy applies at confirmation stage",
+  "payment_policy": "Deposit after availability check",
+  "verified_status": "verified",
+  "review_count": 0,
+  "average_rating": 0.0,
+  "response_time_hours": 6,
+  "is_featured": true,
+  "is_published": true,
+  "units": [
+    {
+      "unit_name": "Ocean Suite",
+      "unit_type": "suite",
+      "capacity_adults": 2,
+      "capacity_children": 1,
+      "base_price": 320,
+      "currency": "USD",
+      "amenities": ["Ocean View", "Terrace", "En-suite"],
+      "inventory_count": 12,
+      "is_published": true
+    },
+    {
+      "unit_name": "Royal Suite",
+      "unit_type": "suite",
+      "capacity_adults": 2,
+      "capacity_children": 2,
+      "base_price": 480,
+      "currency": "USD",
+      "amenities": ["Sea View", "Living Area", "En-suite"],
+      "inventory_count": 4,
+      "is_published": true
+    }
+  ]
+}
+
