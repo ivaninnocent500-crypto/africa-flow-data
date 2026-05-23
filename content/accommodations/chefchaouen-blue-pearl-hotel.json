@@ -1,0 +1,41 @@
+{
+  "slug": "chefchaouen-blue-pearl-hotel",
+  "name": "Blue Pearl Hotel",
+  "accommodation_type": "hotel",
+  "country_slug": "morocco",
+  "destination_slug": "chefchaouen",
+  "operator_slug": "atlas-nomad-tours",
+  "summary": "Cozy hotel with panoramic views of the blue city.",
+  "description": "Walking distance to the medina, friendly staff, and traditional breakfast.",
+  "location_label": "Chefchaouen",
+  "address_line_1": "Avenue Hassan II, Chefchaouen 91000",
+  "latitude": 35.1713,
+  "longitude": -5.2697,
+  "hero_image_url": "https://images.unsplash.com/photo-1556194714-129a7011a10b?w=1600",
+  "amenities": ["Restaurant", "Free Wi-Fi", "Mountain views"],
+  "board_basis": ["Bed & Breakfast"],
+  "check_in_time": "14:00",
+  "check_out_time": "12:00",
+  "child_policy": "All ages welcome",
+  "cancellation_policy": "Free up to 5 days before arrival",
+  "payment_policy": "No deposit required",
+  "verified_status": "verified",
+  "review_count": 31,
+  "average_rating": 4.4,
+  "response_time_hours": 2,
+  "is_featured": false,
+  "is_published": true,
+  "units": [
+    {
+      "unit_name": "Standard Double",
+      "unit_type": "double",
+      "capacity_adults": 2,
+      "capacity_children": 1,
+      "base_price": 65,
+      "currency": "USD",
+      "amenities": ["En-suite", "Balcony"],
+      "inventory_count": 12,
+      "is_published": true
+    }
+  ]
+}
