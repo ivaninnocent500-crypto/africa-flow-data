@@ -1,0 +1,8 @@
+{
+  "slug": "egypt",
+  "name": "Egypt",
+  "iso_code": "EG",
+  "hero_image_url": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=1600",
+  "description": "Land of pharaohs, pyramids, and the Nile. Explore ancient temples, cruise the legendary river, and dive in the Red Sea.",
+  "is_active": true
+}
