@@ -13,6 +13,7 @@
   "longitude": 55.7333,
   "hero_image_url": "https://images.unsplash.com/photo-1540202404-a2f29016b1b1?w=1600",
   "amenities": ["Restaurant", "Bar", "Swimming pool", "Free parking"],
+  "room_types": ["Bungalow"],
   "board_basis": ["Half Board"],
   "check_in_time": "14:00",
   "check_out_time": "11:00",
@@ -39,3 +40,4 @@
     }
   ]
 }
+
