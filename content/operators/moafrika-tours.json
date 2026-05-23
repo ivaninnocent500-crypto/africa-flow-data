@@ -10,7 +10,7 @@
   "logo_url": "https://example.com/logos/moafrika.png",
   "years_in_operation": 15,
   "languages": ["English", "German"],
-  "specialties": ["Desert Safaris", "Overland Tours", "Short Breaks"],
+  "specialties": ["Luxury", "Family Trips"],
   "verified_status": "verified",
   "review_count": 412,
   "average_rating": 4.7,
@@ -19,4 +19,5 @@
   "payment_policy": "Deposit required, balance due before travel",
   "is_published": true
 }
+
 
