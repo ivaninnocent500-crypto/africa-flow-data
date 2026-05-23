@@ -12,9 +12,9 @@
   "latitude": -24.4856,
   "longitude": 15.7981,
   "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=hb3Bgf70Fk8wdPXu0yO9kH%2FbeWcK70yJcrdYjsqVgtXQM6pqYZwnTY7MkyprBO2tOPnlW2ahHZaa6TayUEiNJEBGurQtxoxqHADaJDoX43sI4q%2FTdzsjdGAN9A7h5qx7mU93YcbJeL%2FzUPVYRYcTaw%3D%3D&u2=6Lep08au296pj7xw&width=2560",
-  "amenities": ["Pool", "Restaurant", "Free Parking", "Bar"],
-  "room_types": ["Standard Chalet", "Luxury Suite"],
-  "board_basis": ["Bed and Breakfast", "Full Board"],
+  "amenities": [],
+  "room_types": [],
+  "board_basis": [],
   "check_in_time": "14:00",
   "check_out_time": "10:00",
   "child_policy": "Children welcome",
@@ -29,12 +29,12 @@
   "units": [
     {
       "unit_name": "Standard Desert Chalet",
-      "unit_type": "villa",
+      "unit_type": "suite",
       "capacity_adults": 2,
-      "capacity_children": 1,
+      "capacity_children": 0,
       "base_price": 180,
       "currency": "USD",
-      "amenities": ["En-suite Bathroom", "Private Veranda"],
+      "amenities": [],
       "inventory_count": 10,
       "is_published": true
     }
