@@ -1,0 +1,52 @@
+{
+  "slug": "cairo-pyramid-view-hotel",
+  "name": "Cairo Pyramid View Hotel",
+  "accommodation_type": "hotel",
+  "country_slug": "egypt",
+  "destination_slug": "cairo",
+  "operator_slug": "pharaoh-quest-travel",
+  "summary": "Hotel with direct views of the Pyramids of Giza.",
+  "description": "Rooftop terrace, Egyptian breakfast, and easy access to the Giza Plateau.",
+  "location_label": "Giza, Cairo",
+  "address_line_1": "10 Sphinx Street, Giza 12556",
+  "latitude": 29.9773,
+  "longitude": 31.1328,
+  "hero_image_url": "https://images.unsplash.com/photo-1539768942893-daf53e448371?w=1600",
+  "amenities": ["Rooftop restaurant", "Free Wi-Fi", "Airport transfer"],
+  "board_basis": ["Bed & Breakfast"],
+  "check_in_time": "14:00",
+  "check_out_time": "12:00",
+  "child_policy": "Children under 6 free",
+  "cancellation_policy": "Free cancellation 14 days before",
+  "payment_policy": "Credit card guarantee",
+  "verified_status": "verified",
+  "review_count": 203,
+  "average_rating": 4.5,
+  "response_time_hours": 2,
+  "is_featured": true,
+  "is_published": true,
+  "units": [
+    {
+      "unit_name": "Pyramid View Double",
+      "unit_type": "double",
+      "capacity_adults": 2,
+      "capacity_children": 1,
+      "base_price": 95,
+      "currency": "USD",
+      "amenities": ["Pyramid view balcony", "AC", "En-suite"],
+      "inventory_count": 15,
+      "is_published": true
+    },
+    {
+      "unit_name": "Family Room",
+      "unit_type": "family",
+      "capacity_adults": 4,
+      "capacity_children": 2,
+      "base_price": 150,
+      "currency": "USD",
+      "amenities": ["Two connecting rooms", "Pyramid view"],
+      "inventory_count": 5,
+      "is_published": true
+    }
+  ]
+}
