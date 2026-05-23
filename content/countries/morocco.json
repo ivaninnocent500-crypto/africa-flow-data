@@ -1,0 +1,8 @@
+{
+  "slug": "morocco",
+  "name": "Morocco",
+  "iso_code": "MA",
+  "hero_image_url": "https://images.unsplash.com/photo-1489749701225-97b7d5c4f8f6?w=1600",
+  "description": "Vibrant souks, Sahara dunes, Atlas mountains, and Atlantic coast. Morocco offers a sensory overload of colors, spices, and ancient medinas.",
+  "is_active": true
+}
