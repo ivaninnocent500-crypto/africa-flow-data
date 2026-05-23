@@ -1,0 +1,60 @@
+{
+  "slug": "zanzibar-mikumi-safari-3-day",
+  "title": "3-Day Zanzibar & Mikumi Bush-to-Beach Combo",
+  "itinerary_type": "short",
+  "country_slug": "tanzania",
+  "destination_slug": "zanzibar",
+  "operator_slug": "altezza-travel",
+  "summary": "Compact bush-and-beach itinerary connecting Zanzibar with Mikumi for a fast wildlife add-on.",
+  "description": "A short Tanzania combo for travelers who want the contrast of Zanzibar’s coast and Mikumi’s savanna in one linked three-day structure.",
+  "duration_days": 3,
+  "nights": 2,
+  "from_price": 890.00,
+  "currency": "USD",
+  "price_label": "per person sharing",
+  "inclusions": ["2 nights accommodation", "Zanzibar-Mikumi transfers", "Game drives", "Park entry fees", "Meals as listed"],
+  "exclusions": ["International flights", "Visa fees", "Tips", "Travel insurance"],
+  "highlights": ["Nungwi Beach", "Mikumi game drives", "Bush-and-beach contrast"],
+  "available_months": ["Jun", "Jul", "Aug", "Sep", "Oct"],
+  "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=OEkD3ZlGDL7LjBg5b2l0adnLvFLodaftzj4u%2Bzhls4T8aR%2FezHFtsIwdmCJjwYGl%2FR948EEC5eOFOplBdW1v53XOMWV16mF%2FpUt9B3x9s54n1iIHwinyFzHm6VsnNidVrMs%2BEU%2BO6f8TEaBhqIzyL6Q%3D&u2=CA6lWExmHwxMBowa&width=2560",
+  "max_group_size": 8,
+  "min_group_size": 2,
+  "verified_status": "verified",
+  "review_count": 0,
+  "average_rating": 0.0,
+  "response_time_hours": 4,
+  "cancellation_policy": "Standard policy",
+  "payment_policy": "Secure deposit required",
+  "is_featured": false,
+  "is_published": true,
+  "days": [
+    {
+      "day_number": 1,
+      "title": "Arrival in Zanzibar",
+      "summary": "Begin the itinerary with an island arrival, northern beach transfer, and evening at leisure.",
+      "accommodation_slug": "royal-zanzibar-beach-resort",
+      "meals_included": ["Dinner"],
+      "activities": ["Airport transfer", "Beach leisure", "Resort check-in"],
+      "travel_time_label": "60-90 min transfer"
+    },
+    {
+      "day_number": 2,
+      "title": "Transfer to Mikumi and afternoon safari",
+      "summary": "Connect from Zanzibar to Mikumi and head straight into a game-viewing experience across the park’s open plains.",
+      "accommodation_slug": "mikumi-safari-lodge",
+      "meals_included": ["Breakfast", "Lunch", "Dinner"],
+      "activities": ["Inter-destination transfer", "Afternoon game drive", "Bush overnight"],
+      "travel_time_label": "Flight or road transfer plus park transfer"
+    },
+    {
+      "day_number": 3,
+      "title": "Sunrise wildlife viewing and onward departure",
+      "summary": "Take in a final safari window before transferring onward for Zanzibar extension or departure connection.",
+      "accommodation_slug": "mikumi-safari-lodge",
+      "meals_included": ["Breakfast"],
+      "activities": ["Morning game drive", "Departure transfer"],
+      "travel_time_label": "Flexible"
+    }
+  ]
+}
+
