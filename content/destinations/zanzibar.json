@@ -1,0 +1,14 @@
+{
+  "slug": "zanzibar",
+  "country_slug": "tanzania",
+  "name": "Zanzibar",
+  "destination_type": "beach",
+  "summary": "Indian Ocean island escape shaped around white-sand beaches, Stone Town culture, coral reefs, and dhow sunsets.",
+  "description": "Zanzibar blends warm tropical beaches with historic Stone Town, spice farms, marine excursions, and nature experiences such as Jozani Forest and coastal conservation sites.",
+  "latitude": -6.16394,
+  "longitude": 39.19790,
+  "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=3mgqjQKYTeu%2FOC7ducdS2KwVdy96S%2F5cnBTJxoGR7nUww7dIHJmxzbTSLs9nFPyIb%2Bag9kXEYREtkv6MDtK%2Fi1STYf%2BUtFn6YhPZWl6e2otNuh%2FRsUp0wS9w5%2FhrqUX7z0ZVlrGT4BLY2uw0&u2=Z8BmIS4%2FxxrB1sYA&width=2560",
+  "best_months": ["Jun", "Jul", "Aug", "Sep", "Oct"],
+  "tags": ["beach", "island", "snorkelling", "culture", "romantic"],
+  "is_published": true
+}
