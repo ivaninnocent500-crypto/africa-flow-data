@@ -1,0 +1,60 @@
+{
+  "slug": "zanzibar-beach-3-day",
+  "title": "3-Day Zanzibar Beach Escape",
+  "itinerary_type": "short",
+  "country_slug": "tanzania",
+  "destination_slug": "zanzibar",
+  "operator_slug": "altezza-travel",
+  "summary": "Short Indian Ocean beach itinerary based around Nungwi relaxation, light island touring, and sunset experiences.",
+  "description": "A compact Zanzibar break designed for travelers who want a clean beach-resort structure with enough time for leisure, culture, and a signature dhow-sunset moment.",
+  "duration_days": 3,
+  "nights": 2,
+  "from_price": 690.00,
+  "currency": "USD",
+  "price_label": "per person sharing",
+  "inclusions": ["2 nights accommodation", "Airport transfers", "Breakfast", "Stone Town visit", "Sunset dhow cruise"],
+  "exclusions": ["International flights", "Travel insurance", "Personal expenses", "Optional watersports"],
+  "highlights": ["Nungwi Beach", "Stone Town", "Sunset dhow cruise"],
+  "available_months": ["Jun", "Jul", "Aug", "Sep", "Oct"],
+  "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=3mgqjQKYTeu%2FOC7ducdS2KwVdy96S%2F5cnBTJxoGR7nUww7dIHJmxzbTSLs9nFPyIb%2Bag9kXEYREtkv6MDtK%2Fi1STYf%2BUtFn6YhPZWl6e2otNuh%2FRsUp0wS9w5%2FhrqUX7z0ZVlrGT4BLY2uw0&u2=Z8BmIS4%2FxxrB1sYA&width=2560",
+  "max_group_size": 12,
+  "min_group_size": 2,
+  "verified_status": "verified",
+  "review_count": 0,
+  "average_rating": 0.0,
+  "response_time_hours": 4,
+  "cancellation_policy": "Standard policy",
+  "payment_policy": "Secure deposit required",
+  "is_featured": true,
+  "is_published": true,
+  "days": [
+    {
+      "day_number": 1,
+      "title": "Arrival in Zanzibar and Nungwi beach time",
+      "summary": "Arrive on the island, transfer north to Nungwi, and settle into a beach resort with the rest of the day at leisure.",
+      "accommodation_slug": "royal-zanzibar-beach-resort",
+      "meals_included": ["Dinner"],
+      "activities": ["Airport transfer", "Beach leisure", "Resort check-in"],
+      "travel_time_label": "60-90 min transfer"
+    },
+    {
+      "day_number": 2,
+      "title": "Stone Town culture and sunset dhow experience",
+      "summary": "Balance a relaxed beach morning with a cultural outing and a classic sunset cruise on the Indian Ocean.",
+      "accommodation_slug": "royal-zanzibar-beach-resort",
+      "meals_included": ["Breakfast", "Dinner"],
+      "activities": ["Stone Town visit", "Beach time", "Sunset dhow cruise"],
+      "travel_time_label": "Flexible island touring"
+    },
+    {
+      "day_number": 3,
+      "title": "Morning at leisure and departure",
+      "summary": "Enjoy a final swim or slow breakfast before your transfer to the airport or onward island extension.",
+      "accommodation_slug": "royal-zanzibar-beach-resort",
+      "meals_included": ["Breakfast"],
+      "activities": ["Beach leisure", "Departure transfer"],
+      "travel_time_label": "Flexible"
+    }
+  ]
+}
+
