@@ -1,0 +1,41 @@
+{
+  "slug": "riad-fes-el-bali",
+  "name": "Riad Fes El Bali",
+  "accommodation_type": "riad",
+  "country_slug": "morocco",
+  "destination_slug": "fes",
+  "operator_slug": "atlas-nomad-tours",
+  "summary": "Charming riad inside the Fes medina near the Blue Gate.",
+  "description": "Traditional zellij tiles, courtyard fountain, and rooftop views.",
+  "location_label": "Fes El Bali, Fes",
+  "address_line_1": "14 Derb Ben Slimane, Fes 30110",
+  "latitude": 34.0331,
+  "longitude": -5.0,
+  "hero_image_url": "https://images.unsplash.com/photo-1564866991545-58fe7fd8e743?w=1600",
+  "amenities": ["Restaurant", "Terrace", "Free Wi-Fi", "Airport shuttle"],
+  "board_basis": ["Bed & Breakfast"],
+  "check_in_time": "13:00",
+  "check_out_time": "11:00",
+  "child_policy": "Children over 6 welcome",
+  "cancellation_policy": "Flexible – 7 days notice",
+  "payment_policy": "Pay at property or 20% online",
+  "verified_status": "verified",
+  "review_count": 53,
+  "average_rating": 4.5,
+  "response_time_hours": 3,
+  "is_featured": false,
+  "is_published": true,
+  "units": [
+    {
+      "unit_name": "Double Room",
+      "unit_type": "double",
+      "capacity_adults": 2,
+      "capacity_children": 1,
+      "base_price": 80,
+      "currency": "USD",
+      "amenities": ["En-suite", "Heating", "City view"],
+      "inventory_count": 6,
+      "is_published": true
+    }
+  ]
+}
