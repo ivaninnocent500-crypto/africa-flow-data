@@ -1,0 +1,14 @@
+{
+  "slug": "aswan",
+  "country_slug": "egypt",
+  "name": "Aswan",
+  "destination_type": "city",
+  "summary": "Tranquil Nile town, Philae Temple, and the High Dam.",
+  "description": "Nubian culture, felucca rides, and the unfinished obelisk.",
+  "latitude": 24.0889,
+  "longitude": 32.8998,
+  "hero_image_url": "https://images.unsplash.com/photo-1572251324479-c805d35d5a97?w=1600",
+  "best_months": ["Nov", "Dec", "Jan", "Feb"],
+  "tags": ["nubian", "island", "temple", "relax"],
+  "is_published": true
+}
