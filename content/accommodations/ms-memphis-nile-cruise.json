@@ -1,0 +1,52 @@
+{
+  "slug": "ms-memphis-nile-cruise",
+  "name": "MS Memphis Nile Cruise",
+  "accommodation_type": "boat",
+  "country_slug": "egypt",
+  "destination_slug": "luxor",
+  "operator_slug": "pharaoh-quest-travel",
+  "summary": "5-star Nile cruise ship from Luxor to Aswan.",
+  "description": "All cabins with Nile views, pool, lounge, and guided temple visits.",
+  "location_label": "Nile River, Luxor",
+  "address_line_1": "Luxor East Bank, Corniche",
+  "latitude": 25.6849,
+  "longitude": 32.6394,
+  "hero_image_url": "https://images.unsplash.com/photo-1572251324479-c805d35d5a97?w=1600",
+  "amenities": ["Pool", "Sun deck", "Restaurant", "Bar", "Gym"],
+  "board_basis": ["Full Board (including guided tours)"],
+  "check_in_time": "12:00",
+  "check_out_time": "08:00",
+  "child_policy": "Children welcome (sharing with adults)",
+  "cancellation_policy": "Strict – 60 days for full refund",
+  "payment_policy": "30% deposit, balance 45 days before sailing",
+  "verified_status": "verified",
+  "review_count": 178,
+  "average_rating": 4.7,
+  "response_time_hours": 4,
+  "is_featured": true,
+  "is_published": true,
+  "units": [
+    {
+      "unit_name": "Standard Cabin",
+      "unit_type": "double",
+      "capacity_adults": 2,
+      "capacity_children": 1,
+      "base_price": 140,
+      "currency": "USD",
+      "amenities": ["Nile view window", "En-suite", "AC"],
+      "inventory_count": 40,
+      "is_published": true
+    },
+    {
+      "unit_name": "Suite",
+      "unit_type": "suite",
+      "capacity_adults": 2,
+      "capacity_children": 0,
+      "base_price": 220,
+      "currency": "USD",
+      "amenities": ["Separate living area", "Balcony", "Mini bar"],
+      "inventory_count": 4,
+      "is_published": true
+    }
+  ]
+}
