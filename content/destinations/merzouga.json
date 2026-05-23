@@ -1,0 +1,14 @@
+{
+  "slug": "merzouga",
+  "country_slug": "morocco",
+  "name": "Merzouga (Sahara Desert)",
+  "destination_type": "desert",
+  "summary": "Gateway to the Erg Chebbi dunes, camel treks, and desert camps.",
+  "description": "Towering orange sand dunes, starry nights, and Berber hospitality.",
+  "latitude": 31.0926,
+  "longitude": -4.0139,
+  "hero_image_url": "https://images.unsplash.com/photo-1464219789935-c2b6f7ab7ecc?w=1600",
+  "best_months": ["Mar", "Apr", "May", "Sep", "Oct", "Nov"],
+  "tags": ["desert", "camel trek", "sunset", "nomadic"],
+  "is_published": true
+}
