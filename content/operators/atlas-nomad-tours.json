@@ -1,0 +1,21 @@
+{
+  "slug": "atlas-nomad-tours",
+  "name": "Atlas Nomad Tours",
+  "country_slug": "morocco",
+  "description": "Authentic Moroccan DMC specialising in desert treks, imperial city tours, and mountain adventures.",
+  "website_url": "https://atlasnomad.example.com",
+  "email": "info@atlasnomad.ma",
+  "phone": "+212 524 123 456",
+  "whatsapp_number": "+212 661 234 567",
+  "logo_url": "https://example.com/logos/atlas-nomad.png",
+  "years_in_operation": 10,
+  "languages": ["English", "French", "Arabic", "Spanish"],
+  "specialties": ["Desert camping", "Cultural tours", "Hiking", "Luxury riads"],
+  "verified_status": "verified",
+  "review_count": 189,
+  "average_rating": 4.8,
+  "response_time_hours": 2,
+  "cancellation_policy": "Flexible – 14 days notice for full refund",
+  "payment_policy": "30% deposit, balance upon arrival",
+  "is_published": true
+}
