@@ -1,0 +1,14 @@
+{
+  "slug": "fes",
+  "country_slug": "morocco",
+  "name": "Fes",
+  "destination_type": "city",
+  "summary": "Spiritual and intellectual heart of Morocco, with the world's oldest university.",
+  "description": "Medieval medina, tanneries, and intricate Islamic architecture.",
+  "latitude": 34.0331,
+  "longitude": -5.0,
+  "hero_image_url": "https://images.unsplash.com/photo-1564866991545-58fe7fd8e743?w=1600",
+  "best_months": ["Mar", "Apr", "May", "Sep", "Oct", "Nov"],
+  "tags": ["cultural", "history", "medina", "tanneries"],
+  "is_published": true
+}
