@@ -1,0 +1,14 @@
+{
+  "slug": "chefchaouen",
+  "country_slug": "morocco",
+  "name": "Chefchaouen",
+  "destination_type": "city",
+  "summary": "The Blue Pearl – mountain town painted in shades of blue.",
+  "description": "Rif Mountains, relaxing atmosphere, and artisanal weaving.",
+  "latitude": 35.1713,
+  "longitude": -5.2697,
+  "hero_image_url": "https://images.unsplash.com/photo-1556194714-129a7011a10b?w=1600",
+  "best_months": ["Apr", "May", "Jun", "Sep", "Oct"],
+  "tags": ["photography", "relax", "hiking", "blue city"],
+  "is_published": true
+}
