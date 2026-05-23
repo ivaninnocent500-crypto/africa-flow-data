@@ -1,8 +1,9 @@
 {
   "slug": "tanzania",
   "name": "Tanzania",
+  "localized_name": "Tanzania",
   "iso_code": "TZ",
-  "hero_image_url": "https://example.com/images/tanzania.jpg",
-  "description": "Home to Serengeti, Ngorongoro and Zanzibar.",
+  "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=wUL0hovKbOJgRuCl629UroQpxTPqh8nxrvE2U40AfuAPEGwaVJxQQ%2BpuqfuUMQuGmRTgoFUDrr1hNVJzJOFrnaTWsWsSXmi6AZQ9ITmgSJcud0527vUr%2B02fdCXCrnkD%2BH%2BEe%2FbqG7LgSqV2OFHZiZJTMq4s8wagz1QBqGMe8MdNz%2Fjn4xxZc8gOu%2Bbl5wqdbctvHRrsP01KPfgG%2FEaWOA82%2FypReszaKIMG%2Bs4WxwCHK153Sth4OT0DK9TLQA%3D%3D&u2=CjNzHuIOeFJLS9v5&width=2560",
+  "description": "East African destination combining world-class safari parks, Mount Kilimanjaro trekking, and Indian Ocean beach escapes in Zanzibar.",
   "is_active": true
 }
