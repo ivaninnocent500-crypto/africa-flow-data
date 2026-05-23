@@ -13,6 +13,7 @@
   "longitude": -4.0139,
   "hero_image_url": "https://images.unsplash.com/photo-1464219789935-c2b6f7ab7ecc?w=1600",
   "amenities": ["Dining tent", "Campfire", "Sunset viewing dune", "Camel parking"],
+  "room_types": ["Standard Tent", "Luxury Tent"],
   "board_basis": ["Full Board", "All Inclusive (non-alcoholic)"],
   "check_in_time": null,
   "check_out_time": null,
