@@ -1,0 +1,22 @@
+{
+  "slug": "altezza-travel",
+  "name": "Altezza Travel",
+  "country_slug": "tanzania",
+  "description": "Tanzania-based tour operator organizing Kilimanjaro expeditions, wildlife safaris, and custom Tanzania journeys with in-house operational control.",
+  "website_url": "https://altezzatravel.com/",
+  "email": "office@altezza.travel",
+  "phone": "+255 682 174 280",
+  "phone_lines": ["+255 682 174 280", "+255 717 120 809"],
+  "whatsapp_number": "+255 717 120 809",
+  "whatsapp_numbers": ["+255 682 174 280", "+255 717 120 809"],
+  "location_label": "Moshi, Tanzania",
+  "address_line_1": "Aishi Machame Hotel, Moshi 0938, Tanzania",
+  "languages": ["English"],
+  "specialties": ["Kilimanjaro Expeditions", "Wildlife Safaris", "Private Tanzania Trips"],
+  "verified_status": "verified",
+  "operational_status": "active",
+  "response_time_hours": 4,
+  "cancellation_policy": "Confirmed at booking stage according to trip contract",
+  "payment_policy": "Deposit required to secure services; balance due before travel",
+  "is_published": true
+}
