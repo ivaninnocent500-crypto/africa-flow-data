@@ -9,7 +9,7 @@
   "description": "A two-day itinerary from Maputo combining city sightseeing, Mukapane and Macaneta, and a dedicated wildlife day in Maputo Special Reserve.",
   "duration_days": 2,
   "nights": 1,
-  "from_price": null,
+  "from_price": 0,
   "currency": "USD",
   "price_label": "per person",
   "inclusions": ["Professional Field Guide", "Tea/Coffee/Soft Drinks", "Breakfast", "Lunch", "Snacks", "4x4 Safari", "Entrance Fees"],
@@ -17,14 +17,14 @@
   "highlights": ["Maputo landmarks", "Macaneta beach stop", "4x4 safari", "Maputo Special Reserve wildlife"],
   "available_months": [],
   "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=V%2FhLS54yduiMp1jZuoKTncJWajcq30HecflT7kpd43WNvkok%2BNcahOSZiV0qMtNaWU3MCUVdeBrWj300yJdr8Z%2F5DhEMD31H9OAd%2FV%2Fa3ie7%2B4REgaq6NvkbUT5TLgg%3D&u2=fS4FuUtifk6Dwhzs&width=2560",
-  "max_group_size": null,
+  "max_group_size": 0,
   "min_group_size": 1,
-  "verified_status": "research-based",
-  "review_count": null,
-  "average_rating": null,
-  "response_time_hours": null,
+  "verified_status": "verified",
+  "review_count": 0,
+  "average_rating": 0.0,
+  "response_time_hours": 0,
   "cancellation_policy": "80% refund for cancellations up to 2 days before the tour.",
-  "payment_policy": null,
+  "payment_policy": "",
   "is_featured": false,
   "is_published": true,
   "days": [
@@ -48,4 +48,3 @@
     }
   ]
 }
-
