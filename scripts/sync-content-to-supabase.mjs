@@ -22,9 +22,15 @@ function readJsonFiles(folder) {
 
 async function getIdBySlug(table, slug) {
   const { data, error } = await supabase.from(table).select("id").eq("slug", slug).single();
-  if (error) throw error;
+  if (error) {
+    // Catching the exact failing reference right before throwing
+    console.error(`\n❌ [LOOKUP FAILURE] Table: "${table}" | Slug searched: "${slug}"`);
+    if (error.code === 'PGRST116') {
+      console.error(`💡 Reason: No matching row found. Either the parent record doesn't exist, or it failed to insert.`);
+    }
+    throw error;
+  }
   return data.id;
-}
 
 async function upsertCountries() {
   const countries = readJsonFiles("countries");
