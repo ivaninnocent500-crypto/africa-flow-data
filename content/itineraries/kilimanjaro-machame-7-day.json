@@ -1,0 +1,96 @@
+{
+  "slug": "kilimanjaro-machame-7-day",
+  "title": "7-Day Kilimanjaro Machame Route",
+  "itinerary_type": "long",
+  "country_slug": "tanzania",
+  "destination_slug": "kilimanjaro",
+  "operator_slug": "altezza-travel",
+  "summary": "Classic Machame climb structured for acclimatization, summit success, and clean camp-based routing.",
+  "description": "A full seven-day Kilimanjaro trekking itinerary using the Machame Route, progressing from rainforest to alpine desert before a summit push to Uhuru Peak and descent through Mweka.",
+  "duration_days": 7,
+  "nights": 6,
+  "from_price": 1980.00,
+  "currency": "USD",
+  "price_label": "per person",
+  "inclusions": ["Mountain crew", "Park fees", "Camping accommodation", "All meals on trek", "Transfers from Moshi", "Safety equipment"],
+  "exclusions": ["International flights", "Tips for mountain crew", "Personal gear hire", "Travel insurance"],
+  "highlights": ["Machame Gate", "Shira Plateau", "Barranco Wall", "Barafu Camp", "Uhuru Peak"],
+  "available_months": ["Jan", "Feb", "Mar", "Jun", "Jul", "Aug", "Sep", "Oct"],
+  "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=v0DEJEwNQhgjnlLA7UjVJjSXNornc5iFhS%2FeZ30ylpuhCq7Ewr3Ecu4cJHoGVSP7VOPl6%2BUDB2N%2BkQcEJ%2FLGb9pyjMD2fILQEFlwllDcGuu0%2FWHDj%2FUMSaCaDihWcKvORTYs2X4pwhMEpPWTDoqcVn5WtXJUPRE%3D&u2=lmtkAejGjO5UY9II&width=2560",
+  "max_group_size": 12,
+  "min_group_size": 1,
+  "verified_status": "verified",
+  "review_count": 0,
+  "average_rating": 0.0,
+  "response_time_hours": 4,
+  "cancellation_policy": "Standard trekking policy",
+  "payment_policy": "Secure deposit required",
+  "is_featured": true,
+  "is_published": true,
+  "days": [
+    {
+      "day_number": 1,
+      "title": "Machame Gate to Machame Camp",
+      "summary": "Enter the park and trek through montane rainforest to the first camp on the Machame route.",
+      "accommodation_slug": "kilimanjaro-alpine-camps",
+      "meals_included": ["Lunch", "Dinner"],
+      "activities": ["Park registration", "Guided trek", "Camp overnight"],
+      "travel_time_label": "5-6 hrs trek"
+    },
+    {
+      "day_number": 2,
+      "title": "Machame Camp to Shira Camp",
+      "summary": "Climb out of the forest into moorland terrain with broader views toward the Shira Plateau.",
+      "accommodation_slug": "kilimanjaro-alpine-camps",
+      "meals_included": ["Breakfast", "Lunch", "Dinner"],
+      "activities": ["Guided trek", "Altitude gain", "Camp overnight"],
+      "travel_time_label": "5-6 hrs trek"
+    },
+    {
+      "day_number": 3,
+      "title": "Shira Camp to Barranco Camp via Lava Tower",
+      "summary": "Use a climb-high, sleep-lower acclimatization day crossing volcanic terrain before descending to Barranco.",
+      "accommodation_slug": "kilimanjaro-alpine-camps",
+      "meals_included": ["Breakfast", "Lunch", "Dinner"],
+      "activities": ["Acclimatization trek", "Lava Tower approach", "Camp overnight"],
+      "travel_time_label": "6-8 hrs trek"
+    },
+    {
+      "day_number": 4,
+      "title": "Barranco Camp to Karanga Camp",
+      "summary": "Tackle the Barranco Wall and continue through dramatic high-altitude scenery to Karanga.",
+      "accommodation_slug": "kilimanjaro-alpine-camps",
+      "meals_included": ["Breakfast", "Lunch", "Dinner"],
+      "activities": ["Barranco Wall ascent", "Guided trek", "Camp overnight"],
+      "travel_time_label": "4-5 hrs trek"
+    },
+    {
+      "day_number": 5,
+      "title": "Karanga Camp to Barafu Camp",
+      "summary": "Move steadily higher to Barafu, rest, and prepare for the overnight summit push.",
+      "accommodation_slug": "kilimanjaro-alpine-camps",
+      "meals_included": ["Breakfast", "Lunch", "Dinner"],
+      "activities": ["Guided trek", "Summit briefing", "Camp overnight"],
+      "travel_time_label": "4-5 hrs trek"
+    },
+    {
+      "day_number": 6,
+      "title": "Barafu Camp to Uhuru Peak and down to Mweka Camp",
+      "summary": "Begin before dawn for the summit attempt, reach Uhuru Peak, then descend to lower camp for recovery.",
+      "accommodation_slug": "kilimanjaro-alpine-camps",
+      "meals_included": ["Breakfast", "Lunch", "Dinner"],
+      "activities": ["Summit push", "Uhuru Peak", "Descent to Mweka Camp"],
+      "travel_time_label": "10-14 hrs trek"
+    },
+    {
+      "day_number": 7,
+      "title": "Mweka Camp to Mweka Gate and departure",
+      "summary": "Complete the descent through forest, collect exit formalities, and transfer onward after the climb.",
+      "accommodation_slug": "kilimanjaro-alpine-camps",
+      "meals_included": ["Breakfast", "Lunch"],
+      "activities": ["Final descent", "Exit formalities", "Transfer out"],
+      "travel_time_label": "4-6 hrs trek"
+    }
+  ]
+}
+
