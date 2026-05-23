@@ -1,0 +1,15 @@
+{
+  "slug": "praslin",
+  "country_slug": "seychelles",
+  "name": "Praslin",
+  "destination_type": "beach",
+  "summary": "Home to Anse Lazio and the Vallée de Mai (Coco de Mer palm).",
+  "description": "UNESCO world heritage site, giant tortoises, and turquoise bays.",
+  "latitude": -4.325,
+  "longitude": 55.7333,
+  "hero_image_url": "https://images.unsplash.com/photo-1540202404-a2f29016b1b1?w=1600",
+  "best_months": ["Apr", "May", "Jun", "Sep", "Oct", "Nov"],
+  "tags": ["beach", "jungle", "unique flora"],
+  "is_published": true
+}
+
