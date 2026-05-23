@@ -1,0 +1,59 @@
+{
+  "slug": "fes-chefchaouen-3-day",
+  "title": "Imperial Fes & Blue Chefchaouen – 3 Days",
+  "itinerary_type": "short",
+  "country_slug": "morocco",
+  "destination_slug": "fes",
+  "operator_slug": "atlas-nomad-tours",
+  "summary": "Explore Fes medina, Roman ruins of Volubilis, and the blue-washed mountain town.",
+  "description": "Cultural immersion in two of Morocco's most photogenic cities.",
+  "duration_days": 3,
+  "nights": 2,
+  "from_price": 280,
+  "currency": "USD",
+  "price_label": "per person sharing",
+  "inclusions": ["Private transport", "2 nights accommodation (BB)", "Guide in Fes medina"],
+  "exclusions": ["Lunches", "Dinners", "Entry fees", "Tips"],
+  "highlights": ["Al-Attarine Madrasa", "Chouara Tannery", "Volubilis ruins", "Chefchaouen's blue alleys"],
+  "available_months": ["Mar", "Apr", "May", "Sep", "Oct", "Nov"],
+  "hero_image_url": "https://images.unsplash.com/photo-1564866991545-58fe7fd8e743?w=1600",
+  "max_group_size": 12,
+  "min_group_size": 2,
+  "verified_status": "verified",
+  "review_count": 56,
+  "average_rating": 4.6,
+  "response_time_hours": 2,
+  "cancellation_policy": "Free up to 7 days before",
+  "payment_policy": "No deposit for small groups",
+  "is_featured": false,
+  "is_published": true,
+  "days": [
+    {
+      "day_number": 1,
+      "title": "Fes – Guided Medina Tour",
+      "summary": "Full day exploring the UNESCO-listed Fes el Bali: tanneries, mosques, souks.",
+      "accommodation_slug": "riad-fes-el-bali",
+      "meals_included": ["Breakfast"],
+      "activities": ["Medina walk", "Ceramics workshop", "Viewpoint"],
+      "drive_time_label": "Walking"
+    },
+    {
+      "day_number": 2,
+      "title": "Fes – Volubilis – Meknes – Chefchaouen",
+      "summary": "Drive to Roman ruins, then imperial Meknes, arriving in Chefchaouen for sunset.",
+      "accommodation_slug": "chefchaouen-blue-pearl-hotel",
+      "meals_included": ["Breakfast"],
+      "activities": ["Volubilis archaeological site", "Meknes stables"],
+      "drive_time_label": "~4 hours driving"
+    },
+    {
+      "day_number": 3,
+      "title": "Chefchaouen free morning – Return to Fes or to Tangier",
+      "summary": "Leisurely explore the blue city, then afternoon drive back.",
+      "accommodation_slug": "chefchaouen-blue-pearl-hotel",
+      "meals_included": ["Breakfast"],
+      "activities": ["Photo tour", "Hike to Spanish Mosque"],
+      "drive_time_label": "~3.5 hours to Fes"
+    }
+  ]
+}
