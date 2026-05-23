@@ -1,0 +1,59 @@
+{
+  "slug": "marrakech-sahara-3-day",
+  "title": "Marrakech to Sahara Express – 3 Days",
+  "itinerary_type": "short",
+  "country_slug": "morocco",
+  "destination_slug": "merzouga",
+  "operator_slug": "atlas-nomad-tours",
+  "summary": "From the Red City to the golden dunes of Erg Chebbi.",
+  "description": "Cross the High Atlas, visit Ait Ben Haddou, and sleep in a desert camp.",
+  "duration_days": 3,
+  "nights": 2,
+  "from_price": 320,
+  "currency": "USD",
+  "price_label": "per person sharing",
+  "inclusions": ["Transport", "Desert camp (HB)", "Camel trek", "Breakfasts"],
+  "exclusions": ["Lunches", "Drinks", "Tips"],
+  "highlights": ["Tizi n'Tichka pass", "Ait Ben Haddou kasbah", "Sunset camel ride", "Stargazing"],
+  "available_months": ["Mar", "Apr", "May", "Sep", "Oct", "Nov"],
+  "hero_image_url": "https://images.unsplash.com/photo-1464219789935-c2b6f7ab7ecc?w=1600",
+  "max_group_size": 15,
+  "min_group_size": 2,
+  "verified_status": "verified",
+  "review_count": 94,
+  "average_rating": 4.7,
+  "response_time_hours": 3,
+  "cancellation_policy": "Free cancellation 10 days before",
+  "payment_policy": "30% deposit",
+  "is_featured": true,
+  "is_published": true,
+  "days": [
+    {
+      "day_number": 1,
+      "title": "Marrakech – High Atlas – Ait Ben Haddou – Ouarzazate – Dades Valley",
+      "summary": "Drive through mountain passes, visit the famous ksar, overnight in Dades.",
+      "accommodation_slug": "sahara-desert-camp",
+      "meals_included": ["Breakfast", "Dinner"],
+      "activities": ["Scenic drive", "Kasbah visit", "Panoramic stops"],
+      "drive_time_label": "~6 hours driving"
+    },
+    {
+      "day_number": 2,
+      "title": "Dades Valley – Todra Gorge – Merzouga (Camel Trek & Desert Camp)",
+      "summary": "Morning in Todra Gorge, afternoon arrival at Erg Chebbi for camel ride and desert night.",
+      "accommodation_slug": "sahara-desert-camp",
+      "meals_included": ["Breakfast", "Dinner"],
+      "activities": ["Gorge walk", "Camel trek", "Sandboarding", "Berber music"],
+      "drive_time_label": "~4 hours driving + 1.5h camel"
+    },
+    {
+      "day_number": 3,
+      "title": "Merzouga – Return to Marrakech (or drop-off in Ouarzazate/Fes)",
+      "summary": "Sunrise over dunes, optional extra camel, then long drive back.",
+      "accommodation_slug": "sahara-desert-camp",
+      "meals_included": ["Breakfast"],
+      "activities": ["Sunrise photography", "Nomad families visit (optional)"],
+      "drive_time_label": "~9 hours to Marrakech"
+    }
+  ]
+}
