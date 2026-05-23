@@ -1,0 +1,14 @@
+{
+  "slug": "mikumi",
+  "country_slug": "tanzania",
+  "name": "Mikumi",
+  "destination_type": "park",
+  "summary": "Accessible southern Tanzania safari track centered on Mkata floodplain wildlife viewing and short-stay game drives.",
+  "description": "Mikumi National Park is one of Tanzania’s most accessible safari parks, favored for weekend and short itineraries thanks to its strong dry-season game viewing, open savanna, and concentrations of elephant, buffalo, lion, zebra, and birdlife.",
+  "latitude": -7.200000,
+  "longitude": 37.133000,
+  "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=OEkD3ZlGDL7LjBg5b2l0adnLvFLodaftzj4u%2Bzhls4T8aR%2FezHFtsIwdmCJjwYGl%2FR948EEC5eOFOplBdW1v53XOMWV16mF%2FpUt9B3x9s54n1iIHwinyFzHm6VsnNidVrMs%2BEU%2BO6f8TEaBhqIzyL6Q%3D&u2=CA6lWExmHwxMBowa&width=2560",
+  "best_months": ["Jun", "Jul", "Aug", "Sep", "Oct"],
+  "tags": ["safari", "wildlife", "weekend", "savanna", "big-game"],
+  "is_published": true
+}
