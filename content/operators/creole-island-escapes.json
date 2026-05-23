@@ -1,0 +1,21 @@
+{
+  "slug": "creole-island-escapes",
+  "name": "Creole Island Escapes",
+  "country_slug": "seychelles",
+  "description": "Seychelles DMC specialising in island hopping, honeymoon packages, and private yacht charters.",
+  "website_url": "https://creoleisland.example.com",
+  "email": "reservations@creoleisland.sc",
+  "phone": "+248 4 321 000",
+  "whatsapp_number": "+248 2 500 123",
+  "logo_url": "https://example.com/logos/creole-island.png",
+  "years_in_operation": 7,
+  "languages": ["English", "French", "Creole"],
+  "specialties": ["Beach holidays", "Yacht charter", "Honeymoon", "Diving"],
+  "verified_status": "verified",
+  "review_count": 96,
+  "average_rating": 4.9,
+  "response_time_hours": 2,
+  "cancellation_policy": "Flexible – free cancellation up to 21 days before arrival",
+  "payment_policy": "50% deposit at booking, remainder 30 days prior",
+  "is_published": true
+}
