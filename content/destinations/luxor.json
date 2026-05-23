@@ -1,0 +1,14 @@
+{
+  "slug": "luxor",
+  "country_slug": "egypt",
+  "name": "Luxor",
+  "destination_type": "city",
+  "summary": "World's greatest open-air museum – Valley of the Kings, Karnak Temple.",
+  "description": "East and West banks of the Nile, hot air balloons, and colossal statues.",
+  "latitude": 25.6849,
+  "longitude": 32.6394,
+  "hero_image_url": "https://images.unsplash.com/photo-1572251324479-c805d35d5a97?w=1600",
+  "best_months": ["Nov", "Dec", "Jan", "Feb"],
+  "tags": ["temples", "tombs", "balloon", "nile"],
+  "is_published": true
+}
