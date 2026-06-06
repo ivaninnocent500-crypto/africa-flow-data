@@ -16,7 +16,7 @@
   "exclusions": ["International flights", "Travel insurance", "Personal expenses", "Optional watersports"],
   "highlights": ["Nungwi Beach", "Stone Town", "Sunset dhow cruise"],
   "available_months": ["Jun", "Jul", "Aug", "Sep", "Oct"],
-  "hero_image_url": "https://sspark.genspark.ai/cfimages?u1=3mgqjQKYTeu%2FOC7ducdS2KwVdy96S%2F5cnBTJxoGR7nUww7dIHJmxzbTSLs9nFPyIb%2Bag9kXEYREtkv6MDtK%2Fi1STYf%2BUtFn6YhPZWl6e2otNuh%2FRsUp0wS9w5%2FhrqUX7z0ZVlrGT4BLY2uw0&u2=Z8BmIS4%2FxxrB1sYA&width=2560",
+  "hero_image_url": "https://images.unsplash.com/photo-1621583628955-42fbc37bf424?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8emFuemliYXIlMjBiZWFjaHxlbnwwfHwwfHx8MA%3D%3D",
   "max_group_size": 12,
   "min_group_size": 2,
   "verified_status": "verified",
